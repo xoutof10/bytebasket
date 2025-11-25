@@ -1,42 +1,41 @@
-📦 React E-Commerce Website
+📦 ByteBasket — React E-Commerce Website
 
-live at - (https://bytebasket1.netlify.app/)
+Live Demo:
+🔗 bytebasket1.netlify.app
 
-A clean and modern e-commerce website built using React.
-This project fetches product data from a dummy API and displays them in a modern, responsive UI.
-It demonstrates component structure, API handling, routing, and basic state management
-
-
-
-
+ByteBasket is a clean and modern e-commerce web application built with React.
+It fetches product data from a dummy API and displays it in a responsive, user-friendly interface.
+The project showcases component-based architecture, API integration, client-side routing, and state management.
 
 🚀 Features
 
-🛍 Product Listing Page — Displays all products from dummy API
+🛍 Product Listing Page
+Displays all products fetched from the dummy API with a clean grid layout.
 
-🔎 Product Details Page — View details for each product
+🔎 Product Details Page
+View detailed information for each product, including description, price, and image.
 
-📱 Responsive UI — Works on mobile, tablet, and desktop
+📱 Responsive UI
+Fully responsive design that works smoothly across mobile, tablet, and desktop screens.
 
-⚡ Fast Development Setup — Built with Vite 
+⚡ Fast Development Setup (Vite)
+Blazing-fast dev server and optimized build using Vite.
 
-🔄 API Fetching — Dynamic product fetching
+🔄 Dynamic API Fetching
+Real-time product data fetched from:
+https://dummyjson.com/products
 
 🧩 Reusable Components
-
-
-
-
-
+Modular, reusable UI components for better scalability and maintainability.
 
 🧰 Tech Stack
 
-React
+Frontend: React, JavaScript
 
-JavaScript
+Styling: CSS & Tailwind CSS 
 
-CSS / Tailwind / Bootstrap (adjust based on what you used)
+API: DummyJSON (https://dummyjson.com/products)
 
-Dummy API (https://dummyjson.com/products)
+Build Tool: Vite
 
-Vite 
+Deployment: Netlify
